@@ -23,10 +23,6 @@ Things you may want to cover:
 
 * ...
 
-<<<<<<< HEAD
-テスト(2)
-=======
->>>>>>> parent of f9504b0... test commit(2)
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
